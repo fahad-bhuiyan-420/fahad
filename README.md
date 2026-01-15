@@ -46,6 +46,13 @@
   </tr>
 </table>
 
+<h2 align="left">Current Stats</h2>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=fahadbhuiyan&show_icons=true&theme=transparent&hide_border=true" alt="Fahad's GitHub stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahadbhuiyan&theme=transparent&hide_border=true" alt="Fahad's streak" height="170" />
+</p>
+
 <h2 align="left">Coding Activity</h2>
 
 > Total logged open-source coding time.
